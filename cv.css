@@ -37,6 +37,7 @@ height: 1px;}
     height: 3px; margin-left: 10px;}
 
 header{
+    color: red;
     width: 100%;
     position: fixed;
     display: flex;
